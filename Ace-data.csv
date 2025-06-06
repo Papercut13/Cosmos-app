@@ -1,0 +1,19 @@
+Specification,Units,DC-3016,DC-3020,DC-4020
+Table Size,mm,3000 x 1600,3000 x 2000,4000 x 2000
+T-slots size,mm,7 x 28 x 200,9 x 28 x 200,9 x 28 x 200
+Maximum Load,Kgf,6000,8000,10000
+MACHINE CAPACITY,,,,
+X Axis,mm,3200,3200,4200
+Y Axis,mm,1700,2200,2200
+Z Axis,mm,800/1000,800/1000,1000
+Spindle nose to table surface,mm,200-1000,200-1000,200-1000
+Taper,-,7/24 No.50,7/24 No.50,7/24 No.50
+Speed,rpm,6000,6000,6000
+"Rapid Traverse (X, Y, Z)",m/min,15/15/15,15/15/15,10/15/15
+Number of Tools,Nos.,20,20,20
+Tool Change System,-,Twin Arm,Twin Arm,Twin Arm
+Tool Shank Type,-,BT-50,BT-50,BT-50
+Spindle motor (Fanuc),kW,22/18.5/15,22/18.5/15,22/18.5/15
+Machine Weight (approx),Kgf,30000,34000,40000
+CNC Control (Standard),-,FANUC 0IMF+,FANUC 0IMF+,FANUC 0IMF+
+CNC Control (Optional),-,MITSUBISHI M80,MITSUBISHI M80,MITSUBISHI M80
